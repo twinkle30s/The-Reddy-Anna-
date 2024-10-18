@@ -1,0 +1,370 @@
+body {
+    background-color: black;
+}
+
+
+.logo-reddy {
+
+    margin-left: 550px;
+    margin-top: 20px;
+    width: 189px;
+}
+
+@media (max-width: 480px) {
+    .logo-reddy {
+        margin-left: 100px;
+        margin-top: 20px;
+        width: 189px;
+    }
+}
+
+.logo22 {
+    height: 99px;
+    height: 100px;
+    margin-top: 25px;
+    height: 338px;
+    margin-left: -8px;
+    width: 100%;
+}
+
+@media (max-width: 480px) {
+    .logo22 {
+        margin-top: 5px;
+        height: 200px;
+        margin-left: -4px;
+    }
+}
+
+/*-----------------------------NOST-------------------------*/
+
+
+
+
+.border-box {
+    margin-top: 20px;
+    border: 2px solid #25d366;
+    /* WhatsApp Green Border */
+    padding: 20px;
+    width: 300px;
+    text-align: center;
+    border-radius: 10px;
+    /* Optional: Rounded corners */
+    font-size: 18px;
+    margin-left: 500px;
+
+}
+
+@media (max-width: 480px) {
+    .border-box {
+        margin-top: 20px;
+        border: 2px solid #25d366;
+        padding: 20px;
+        width: 300px;
+        text-align: center;
+        border-radius: 10px;
+        font-size: 18px;
+        margin-left: 1px;
+    }
+}
+
+
+
+
+
+/* Media Queries for Responsiveness */
+@media (max-width: 768px) {
+    .border-box {
+        width: 90%;
+        /* Adjust width for smaller screens */
+        padding: 15px;
+        font-size: 16px;
+    }
+}
+
+.most {
+
+    margin-top: -20px;
+}
+
+.most1 {
+    color: #fff;
+    text-align: center;
+    font-size: 3.9em;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.most2 {
+    color: #fff;
+    text-align: center;
+    font-size: 1.2em;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -40px;
+    font-weight: bold;
+
+}
+
+.most1c {
+    color: yellow;
+}
+
+.most3 {
+    color: #fff;
+    text-align: center;
+    font-size: 1.2em;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+
+.most4 {
+    color: #fff;
+    text-align: center;
+    font-size: 1.2em;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 5px;
+    font-weight: bold;
+}
+
+
+.img {
+
+    margin-left: -30px;
+    width: 33px;
+    margin-top: 0px;
+
+}
+
+/*----------------------------------whatapp------------------*/
+
+
+
+.cta {
+    margin-left: 60px;
+}
+.cta a {
+    text-decoration: none;
+}
+
+.get-account-btn1 {
+    border: none;
+    padding: 1px 44px;
+    color: green;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 38px;
+    width: 1190px;
+    margin-left: 10px;
+    margin-top: 13px;
+    height: 86px;
+}
+
+
+
+.head {
+    color: black;
+    margin-top: 4px;
+    font-family: sans-serif;
+}
+
+@media (max-width: 480px) {
+    .get-account-btn1 {
+        /* background-color: rgb(11, 202, 11); */
+        border: none;
+        padding: 1px 44px;
+        /* color: white; */
+        color: green;
+        font-size: 25px;
+        height: 77px;
+        cursor: pointer;
+        border-radius: 38px;
+        margin-left: -37px;
+        margin-top: 13px;
+        width: 313px;
+    }
+
+}
+
+
+
+
+.class1 {
+    font-size: 30px;
+    margin: 10px;
+}
+
+/*-------------------------join------------------------*/
+
+.join {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    /* Adjust the height as needed */
+    background-color: lightgray;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10px;
+}
+
+.join h5 {
+    font-size: 24px;
+    color: black;
+}
+
+
+@media (max-width: 480px) {
+
+    .join {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 55px;
+        background-color: lightgray;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-top: 9px;
+    }
+
+    .join h5 {
+        font-size: 24px;
+        color: black;
+    }
+}
+
+
+/*-----------------------------NOST-------------------------*/
+
+
+.border-box {
+    margin-top: 20px;
+    border: 2px solid #25d366;
+    padding: 20px;
+    width: 1200px;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 18px;
+    margin-left: 30px;
+}
+
+/* Media Queries for Responsiveness */
+@media (max-width: 768px) {
+    .border-box {
+        margin-top: 20px;
+        border: 2px solid #25d366;
+        text-align: center;
+        border-radius: 10px;
+        font-size: 18px;
+        margin-left: 9px;
+    }
+
+    .border-box {
+        width: 85%;
+        padding: 15px;
+        font-size: 16px;
+    }
+}
+
+
+
+.most {
+
+    margin-top: -20px;
+}
+
+.most1 {
+    color: #fff;
+    text-align: center;
+    font-size: 3.9em;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.most2 {
+    color: #fff;
+    text-align: center;
+    font-size: 1.2em;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -40px;
+    font-weight: bold;
+
+}
+
+.most1c {
+    color: yellow;
+}
+
+.most3 {
+    color: #fff;
+    text-align: center;
+    font-size: 1.2em;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+
+.most4 {
+    color: #fff;
+    text-align: center;
+    font-size: 1.2em;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 5px;
+    font-weight: bold;
+}
+
+
+/*-----------------------------------button--------------------*/
+.get-account-btn {
+    background-color: rgb(11, 202, 11);
+    border: none;
+    padding: 1px 8px;
+    color: white;
+    font-size: 19px;
+    cursor: pointer;
+    border-radius: 39px;
+    margin-left: -4px;
+    width: 1100px;
+    height: 50px;
+}
+
+.get-account-btn a {
+    text-decoration: none;
+}
+
+@media (max-width: 480px) {
+
+    .get-account-btn {
+        background-color: rgb(11, 202, 11);
+        border: none;
+        padding: 1px 8px;
+        color: white;
+        font-size: 18px;
+        cursor: pointer;
+        border-radius: 39px;
+        margin-left: -4px;
+        width: 280px;
+    }
+}
+
+.class {
+    font-size: 40px;
+    margin: 10px;
+}
+
+.img1 {
+    margin-left: -30px;
+    width: 33px;
+    margin-top: 0px;
+}
+
+.text-2 {
+    color: #fff;
+}
+
+.text-2 h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    color: #fff;
+    text-align: center;
+
+}
